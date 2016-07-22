@@ -1,5 +1,35 @@
 /* All style should go in this document. */
-body {
+.bg-top { 
+    background-color: #3e606f; /* Green */
+    color: #ffffff;
+    padding-top: 150px;
+}
+
+.bg-2 { 
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+}
+.bg-3 { 
+    background-color: #ffffff; /* White */
+    color: #555555;
+}
+
+.bg-4 {
+	background-color: #91aa9d;
+	color: #111111;
+}
+
+.bg-5 {
+	background-color: #d1dbbd;
+	color: #000000;
+}
+
+/* .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+} */
+
+/*body {
 	background-color: #434242;
 	margin: 2rem;
 	color: #EDE4EA;
@@ -16,8 +46,14 @@ img {
   	border-style: solid;
   	border-color: #ecf0f1;
 
-}
+} */
 
+img {
+	max-width: 300px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #ecf0f1;
+}
 span.pink {
 	color: #F00C41;
 }
