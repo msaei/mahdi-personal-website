@@ -1,4 +1,7 @@
 /* All style should go in this document. */
+body {
+	padding-top: 50px;
+}
 .bg-top { 
     background-color: #3e606f; /* Green */
     color: #ffffff;
