@@ -1,35 +1,38 @@
 /* All style should go in this document. */
 body {
 	padding-top: 50px;
+	font-family: 'Comforta', serif;
+	font-size: 2rem;
 }
 .bg-top { 
     background-color: #3e606f; /* Green */
     color: #ffffff;
-    padding-top: 150px;
-    padding-bottom: 50px;
+    padding-top: 80px;
+    padding-bottom: 70px;
+
 }
 
-.bg-2 { 
+.bg-education { 
     background-color: #474e5d; /* Dark Blue */
     color: #ffffff;
     padding-top: 50px;
     padding-bottom: 50px;
 }
-.bg-3 { 
+.bg-skills { 
     background-color: #ffffff; /* White */
     color: #555555;
     padding-top: 50px;
     padding-bottom: 50px;
 }
 
-.bg-4 {
+.bg-experiences {
 	background-color: #91aa9d;
 	color: #111111;
     padding-top: 50px;
     padding-bottom: 50px;
 }
 
-.bg-5 {
+.bg-projects {
 	background-color: #d1dbbd;
 	color: #000000;
     padding-top: 50px;
@@ -50,36 +53,22 @@ body {
 	padding-bottom: 50px;
 }
 
-/* .container-fluid {
-    padding-top: 70px;
-    padding-bottom: 70px;
-} */
-
-/*body {
-	background-color: #434242;
-	margin: 2rem;
-	color: #EDE4EA;
-	font: 16px Helvetica, sans-serif;
+.tangarine-font {
+	font-family: 'Tangerine', serif;
+    font-size: 5rem;
+    text-shadow: 4px 4px 4px #aaa;
 }
 
+.dancing-font {
+	font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+    text-shadow: 4px 4px 4px #aaa;
+}
 
-img {
-	width: 80%;
-	max-width: 300px;
-	margin: 10 50px;
-	border-radius: 10%; 
-  	border-width: 5px;
-  	border-style: solid;
-  	border-color: #ecf0f1;
-
-} */
 
 img {
 	max-width: 300px;
 	border-width: 5px;
 	border-style: solid;
 	border-color: #ecf0f1;
-}
-span.pink {
-	color: #F00C41;
 }
