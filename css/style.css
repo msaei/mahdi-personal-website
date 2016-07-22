@@ -36,6 +36,20 @@ body {
     padding-bottom: 50px;
 }
 
+.bg-about {
+	background-color: #002f2f;
+	color: #cccccc;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.bg-contact {
+	background-color: #000000;
+	color: #ffffff;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
 /* .container-fluid {
     padding-top: 70px;
     padding-bottom: 70px;
